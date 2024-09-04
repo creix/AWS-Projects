@@ -31,5 +31,8 @@ This session involved programming and automating cloud infrastructure setup, pro
 ## Final Project: Know-Your-Student (KYS)
 The final project involved creating a service for verifying student identities for discounts and other student benefits. This project tied together various skills learned throughout the course, focusing on practical application in a real-world scenario.
 
+## Research Project: Flower Tutorial Using Pandas
+This tutorial focuses on **federated learning** using Flower and Pandas. Federated learning is a machine learning technique that allows models to be trained in a distributed manner across multiple devices or local servers, without gathering or transferring raw data to a central server. Instead, models are sent to local devices where they are trained on local data, and model updates are aggregated to form a global model.
+
 ## Screenshots and Reflections
 For each lab session, screenshots of key milestones and detailed reflections on what was learned are provided. These can be found in the respective lab session folders.
