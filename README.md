@@ -2,6 +2,8 @@
 
 This repository contains all the lab sessions completed as part of the Cloud Computing and Big Data Analytics course at FIB (Universitat Politècnica de Catalunya). Each lab session focuses on different aspects of cloud computing, ranging from basic cloud setup to advanced analytics and cloud infrastructure programming.
 
+The assignments for each lab can be found here: https://github.com/CCBDA-UPC/Assignments-2024
+
 ## Lab Sessions
 
 ### Lab Session #1: Basic "Knowledge Toolbox" to Get Started in the Cloud
